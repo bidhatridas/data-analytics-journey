@@ -1,4 +1,3 @@
-# data-analytics-journey
 # Data Analytics Journey
 
 ##  About Me
